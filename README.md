@@ -3,5 +3,6 @@ Resource
 
 Kawaii Keyboard
 ---------------
-Emoji.dict 
+* Emoji.dict 
+* symbol.dict
 
